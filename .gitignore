@@ -10,6 +10,13 @@
 /frontend/build
 
 
+/mobile/node_modules
+/mobile/.expo
+/mobile/web-build/
+/mobile/web-report/
+
+
+
 
 # misc
 .DS_Store
